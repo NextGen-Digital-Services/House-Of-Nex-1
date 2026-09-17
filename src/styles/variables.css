@@ -1,0 +1,15 @@
+:root {
+  --color-ivory: #F8F3EA;
+  --color-cream: #F1E9DA;
+  --color-terracotta: #B5502E;
+  --color-terracotta-hover: #9B4224;
+  --color-gold: #C6A15B;
+  --color-gold-hover: #B28E46;
+  --color-olive: #6B7255;
+  --color-espresso: #241D19;
+  --color-warmcharcoal: #4A423C;
+  --color-sand: #DCD0BC;
+
+  --font-serif: 'Fraunces', Georgia, serif;
+  --font-sans: 'Manrope', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
